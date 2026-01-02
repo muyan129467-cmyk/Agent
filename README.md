@@ -1,6 +1,6 @@
 **实现一个简单的Agent**
 
-requirements.txt - 
+requirements.txt - 环境及版本
 
 scr/tools.py - 多个工具函数的实现
 
@@ -10,4 +10,4 @@ src/core.py - 基于OpenAI API构建的AI Agent类，支持Function Calling（�
 
 demo.py - 创建Agent实例简单问答
 
-web_demo.py - 交互式Agent问答
+web_demo.py - 交互式Agent问答网页
